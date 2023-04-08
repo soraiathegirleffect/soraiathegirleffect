@@ -13,4 +13,4 @@ She also decided to learn how to code...
 
 🌱 I’m currently working on push_swap ( SEND HELPPPP )
 
-![imagem](https://user-images.githubusercontent.com/113796635/230730070-3077709a-c298-4fc3-8bdb-4bd0e001a37b.png)
+[imagem](https://user-images.githubusercontent.com/113796635/230730070-3077709a-c298-4fc3-8bdb-4bd0e001a37b.png)
