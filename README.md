@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![somartin's 42 stats](https://badge42.vercel.app/api/v2/clg84azxg007808mtenfly49g/stats?cursusId=21&coalitionId=110)](https://github.com/JaeSeoKim/badge42)
+
 <!--
 **soraiathegirleffect/soraiathegirleffect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
