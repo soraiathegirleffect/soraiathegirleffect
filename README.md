@@ -12,3 +12,5 @@ In a galaxy far far away... a nerd emerged after seeing The mandalorian, she thr
 She also decided to learn how to code...
 
 🌱 I’m currently working on push_swap ( SEND HELPPPP )
+
+![imagem](https://user-images.githubusercontent.com/113796635/230729983-0156ac02-46c1-4bee-8579-bd153ee7319c.png)
