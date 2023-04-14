@@ -13,5 +13,5 @@ Since 2022, I decided to challenge myself to learn how to code to change my care
 -->
 
 
-🌱 I’m currently working on Pipex ( SEND HELPPPP )
+🌱 I’m currently working on Pipex ( SEND HELPPPP ) (and learning how to surfskate*
 
