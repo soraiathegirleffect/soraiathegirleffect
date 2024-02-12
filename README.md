@@ -17,5 +17,5 @@ By the end of 2023 I decided to change and start learning Java and Scrum-Agile.
 -->
 
 
-🌱 I’m currently working forward being a Java Software Developer **
+🌱 I’m currently working forward being a Java Software Developer + ScrumMaster**
 
