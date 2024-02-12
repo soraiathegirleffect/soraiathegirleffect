@@ -4,7 +4,9 @@ She also decided to learn how to code, here you can find her journey. ✨
 
 ### Hi there 👋
 My name is Soraia! My journey started with a Bachelor’s Degree in Biochemistry and Master’s degree in Production Technologies and Agro-Industrial Transformation, both in FCT NOVA University.
-Since 2022, I decided to challenge myself to learn how to code to change my career.
+Since 2022, I decided to challenge myself to learn how to code to change my career. 
+
+I first started learning C language in 42Lisboa and finished the common core, then I decided to change and start learning Java in CodeForAll.
 
 
 <!--
@@ -12,5 +14,5 @@ Since 2022, I decided to challenge myself to learn how to code to change my care
 -->
 
 
-🌱 I’m currently learning Java  **
+🌱 I’m currently working forward being a Java software Developer **
 
