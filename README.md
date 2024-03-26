@@ -1,4 +1,4 @@
-✨In a galaxy far far away... a nerd emerged after seeing The mandalorian, she threw herself deep into the Star Wars universe and \never looked back.
+✨In a galaxy far far away... a nerd emerged after seeing The mandalorian, she threw herself deep into the Star Wars universe and \never looked back/.
 
 She also decided to learn how to code, here you can find her journey. ✨
 
